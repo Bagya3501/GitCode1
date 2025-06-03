@@ -31,7 +31,7 @@ public class Alerthandling {
 		driver.switchTo().alert().sendKeys("My name is bagya");
 		driver.switchTo().alert().accept();
 		Thread.sleep(2000);
-		
+		System.out.println("hello github");
 	}
 
 }
