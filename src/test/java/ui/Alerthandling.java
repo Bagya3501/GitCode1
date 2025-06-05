@@ -32,6 +32,7 @@ public class Alerthandling {
 		driver.switchTo().alert().accept();
 		Thread.sleep(2000);
 		System.out.println("hello github");
+		System.out.println("hello github2");
 	}
 
 }

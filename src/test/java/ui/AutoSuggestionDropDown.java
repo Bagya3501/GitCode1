@@ -19,6 +19,8 @@ nam.sendKeys("mumbai");
 Thread.sleep(2000);
 nam.sendKeys(Keys.ARROW_DOWN);
 nam.sendKeys(Keys.ENTER);
+
+System.out.println("hello github");
 	}
 
 }
