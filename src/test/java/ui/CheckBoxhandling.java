@@ -24,6 +24,7 @@ public class CheckBoxhandling {
 		Thread.sleep(2000);
 		driver.findElement(By.id("input_1_12_1")).click();
 		System.out.println(driver.findElements(By.xpath("//*[@data-gtm-form-interact-field-id='0']")).size());
+		System.out.println("adding just to check github");
 		}
 
 }

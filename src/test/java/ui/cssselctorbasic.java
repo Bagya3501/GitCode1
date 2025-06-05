@@ -7,7 +7,8 @@ public class cssselctorbasic {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ChromeDriver driver = new ChromeDriver();
+ //ChromeDriver driver = new ChromeDriver();
+		
 		
 		//driver.get("https://www.saucedemo.com/v1/");
 		//driver.findElement(By.cssSelector("input[id='user-name']")).sendKeys("Hello");
