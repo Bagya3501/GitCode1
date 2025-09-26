@@ -38,7 +38,7 @@ public class cssselctorbasic {
 		 * select[name='CompanyCountry'] :last-child
 		 * select[name='CompanyCountry'] *:last-child
 		 * select[name='CompanyCountry'] option:last-child*/
-		 */
+		 
 		 /*selecting nth child
 		  * select[name='CompanyCountry']>:nth-child(2)
 		 * select[name='CompanyCountry'] :nth-child(2)
